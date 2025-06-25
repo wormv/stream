@@ -1,0 +1,88 @@
+#EXTM3U
+
+==========================================================🎬Movies NoSub==================================================================
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/brattv.png",Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/mytime.png",MyTime
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist480p.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/comet.png",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/moviesphere.png",Movie Sphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbo.png", HBO 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbosig.png", HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbohits.png", HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/hbofam.png", HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/cinemax.png", CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMax
+http://cord-cutter.net:8080/live/95549031/69361122/13381.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",Cinemax
+http://cord-cutter.net:8080/live/95549031/69361122/13380.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
+http://cord-cutter.net:8080/live/95549031/69361122/21013.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",More Max
+http://cord-cutter.net:8080/live/95549031/69361122/17776.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MOVIEMAX
+http://cord-cutter.net:8080/live/95549031/69361122/13480.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMax
+http://cord-cutter.net:8080/live/95549031/69361122/21012.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMax
+http://cord-cutter.net:8080/live/95549031/69361122/17774.m3u8
+
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
+http://cord-cutter.net:8080/live/95549031/69361122/9299.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
+http://cord-cutter.net:8080/live/95549031/69361122/17775.m3u8
+
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
+http://cord-cutter.net:8080/live/95549031/69361122/16143.m3u8
+
+#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
+http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
